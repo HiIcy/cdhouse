@@ -1,3 +1,11 @@
 '$crawls'/*
+$crawls/*
 __pycache__/*
 spiders/__pycache__/*
+.idea/*
+build/*
+dbs/*
+eggs/*
+logs/*
+project.egg-info/*
+cdhouse/spiders/__pycache__/*

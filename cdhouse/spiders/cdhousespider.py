@@ -16,8 +16,8 @@ class CdhomeSpider(Spider):
     name = 'cdhome'
     # redis_key = "cdhome:start_urls"
     start_urls = [
-        'https://cd.newhouse.fang.com/house/s/',
-        'https://cd.esf.fang.com/',
+        # 'https://cd.newhouse.fang.com/house/s/',
+        # 'https://cd.esf.fang.com/',
         'https://cd.zu.fang.com/'
     ]
 

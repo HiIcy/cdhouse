@@ -1,0 +1,6 @@
+scrapy
+pymongo
+redis
+requests
+lxml
+scrapy_redis
